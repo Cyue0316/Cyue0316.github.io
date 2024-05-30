@@ -23,7 +23,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yue Cheng"
-  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
@@ -32,7 +31,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/0000-0001-6817-5147"
   researchgate     : # URL
 

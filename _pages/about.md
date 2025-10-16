@@ -11,7 +11,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD student at  Beijing jiaotong University, advised by Profs. [Weiwei Xing](https://faculty.bjtu.edu.cn/7930/).
+I am a PhD student at  Beijing jiaotong University, advised by Profs. [Weiwei Xing](https://faculty.bjtu.edu.cn/7930/). I am working as an intern under Profs. [Zhanxing Zhu](https://zhanxingzhu.github.io).
 
 My research interests lie in machine learning and causal inference. Most recently, I have been working on causal representation learning, aiming to uncover latent structures and climate from saptial-temproal data.
 

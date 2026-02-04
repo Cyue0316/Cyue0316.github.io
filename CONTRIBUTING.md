@@ -1,3 +1,9 @@
+---
+noteId: "7047a390018411f182f92dec043f44c3"
+tags: []
+
+---
+
 # Contributing to al-folio
 
 Thank you for considering contributing to al-folio!

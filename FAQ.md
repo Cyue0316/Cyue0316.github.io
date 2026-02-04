@@ -1,3 +1,9 @@
+---
+noteId: "7047caa7018411f182f92dec043f44c3"
+tags: []
+
+---
+
 # Frequently Asked Questions
 
 Here are some frequently asked questions. If you have a different question, please check if it was not already answered in the Q&A section of the [GitHub Discussions](https://github.com/alshedivat/al-folio/discussions/categories/q-a). If not, feel free to ask a new question there.

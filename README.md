@@ -1,3 +1,9 @@
+---
+noteId: "7047a391018411f182f92dec043f44c3"
+tags: []
+
+---
+
 # al-folio
 
 <div align="center">

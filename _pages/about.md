@@ -1,16 +1,18 @@
 ---
-layout: about
-title: about
-permalink: /
-
+noteId: "7047a397018411f182f92dec043f44c3"
+tags: []
+layout: "about"
+title: "about"
+permalink: "/"
 profile:
-  align: right
-  image: chengyue_fig.jpg
-  image_circular: false # crops the image to make it circular
+  align: "right"
+  image: "chengyue_fig.jpg"
+  image_circular: false
+selected_papers: true
+social: true
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
 ---
+
 I am a PhD student at  Beijing jiaotong University, advised by Profs. [Weiwei Xing](https://faculty.bjtu.edu.cn/7930/). I am working as an intern under Profs. [Zhanxing Zhu](https://zhanxingzhu.github.io).
 
 My research interests lie in machine learning and causal inference. Most recently, I have been working on causal representation learning, aiming to uncover latent structures and climate from saptial-temproal data.

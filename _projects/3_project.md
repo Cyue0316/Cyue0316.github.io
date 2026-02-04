@@ -1,11 +1,14 @@
 ---
-layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+noteId: "70483fd5018411f182f92dec043f44c3"
+tags: []
+layout: "page"
+title: "project 3 with very long name"
+description: "a project that redirects to another website"
+img: "assets/img/7.jpg"
+redirect: "https://unsplash.com"
 importance: 3
-category: work
+category: "work"
+
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,13 @@
 ---
-layout: page
-title: project 6
-description: a project with no image
-img:
+noteId: "70483fd8018411f182f92dec043f44c3"
+tags: []
+layout: "page"
+title: "project 6"
+description: "a project with no image"
+img: null
 importance: 4
-category: fun
+category: "fun"
+
 ---
 
 Every project has a beautiful feature showcase page.

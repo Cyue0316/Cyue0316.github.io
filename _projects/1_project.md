@@ -1,11 +1,14 @@
 ---
-layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+noteId: "70483fd1018411f182f92dec043f44c3"
+tags: []
+layout: "page"
+title: "project 1"
+description: "with background image"
+img: "assets/img/12.jpg"
 importance: 1
-category: work
+category: "work"
 related_publications: true
+
 ---
 
 Every project has a beautiful feature showcase page.

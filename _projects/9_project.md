@@ -1,10 +1,13 @@
 ---
-layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
+noteId: "70483fd9018411f182f92dec043f44c3"
+tags: []
+layout: "page"
+title: "project 9"
+description: "another project with an image 🎉"
+img: "assets/img/6.jpg"
 importance: 4
-category: fun
+category: "fun"
+
 ---
 
 Every project has a beautiful feature showcase page.

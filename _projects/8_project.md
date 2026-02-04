@@ -1,11 +1,14 @@
 ---
-layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+noteId: "70483fda018411f182f92dec043f44c3"
+tags: []
+layout: "page"
+title: "project 8"
+description: "an other project with a background image and giscus comments"
+img: "assets/img/9.jpg"
 importance: 2
-category: work
+category: "work"
 giscus_comments: true
+
 ---
 
 Every project has a beautiful feature showcase page.
